@@ -1,0 +1,2 @@
+# NoteTakingApp
+ MVVM, Nav, Menu
